@@ -1,0 +1,10 @@
+E:\singleton\bin\Debug\netcoreapp2.0\singleton.deps.json
+E:\singleton\bin\Debug\netcoreapp2.0\singleton.runtimeconfig.json
+E:\singleton\bin\Debug\netcoreapp2.0\singleton.runtimeconfig.dev.json
+E:\singleton\bin\Debug\netcoreapp2.0\singleton.dll
+E:\singleton\bin\Debug\netcoreapp2.0\singleton.pdb
+E:\singleton\obj\Debug\netcoreapp2.0\singleton.csproj.CoreCompileInputs.cache
+E:\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfoInputs.cache
+E:\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfo.cs
+E:\singleton\obj\Debug\netcoreapp2.0\singleton.dll
+E:\singleton\obj\Debug\netcoreapp2.0\singleton.pdb
