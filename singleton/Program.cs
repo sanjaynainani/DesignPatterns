@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DoFactory.GangOfFour.Singleton.NETOptimized
-{
-    /// <summary>
+/// <summary>
     /// MainApp startup class for .NET optimized 
     /// Singleton Design Pattern.
     /// </summary>
@@ -94,4 +92,3 @@ namespace DoFactory.GangOfFour.Singleton.NETOptimized
         // Gets or sets server IP address
         public string IP { get; set; }
     }
-}
