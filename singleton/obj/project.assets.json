@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DesignPatterns\\DesignPatterns\\singleton\\singleton.csproj",
+      "projectUniqueName": "e:\\DesignPatterns\\DesignPatterns\\singleton\\singleton.csproj",
       "projectName": "singleton",
-      "projectPath": "E:\\DesignPatterns\\DesignPatterns\\singleton\\singleton.csproj",
+      "projectPath": "e:\\DesignPatterns\\DesignPatterns\\singleton\\singleton.csproj",
       "packagesPath": "C:\\Users\\Sanjay\\.nuget\\packages\\",
-      "outputPath": "E:\\DesignPatterns\\DesignPatterns\\singleton\\obj\\",
+      "outputPath": "e:\\DesignPatterns\\DesignPatterns\\singleton\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
