@@ -1,0 +1,10 @@
+E:\DesignPatterns\DesignPatterns\Builder\obj\Debug\netcoreapp2.0\Builder.csproj.CoreCompileInputs.cache
+E:\DesignPatterns\DesignPatterns\Builder\obj\Debug\netcoreapp2.0\Builder.AssemblyInfoInputs.cache
+E:\DesignPatterns\DesignPatterns\Builder\obj\Debug\netcoreapp2.0\Builder.AssemblyInfo.cs
+E:\DesignPatterns\DesignPatterns\Builder\bin\Debug\netcoreapp2.0\Builder.deps.json
+E:\DesignPatterns\DesignPatterns\Builder\bin\Debug\netcoreapp2.0\Builder.runtimeconfig.json
+E:\DesignPatterns\DesignPatterns\Builder\bin\Debug\netcoreapp2.0\Builder.runtimeconfig.dev.json
+E:\DesignPatterns\DesignPatterns\Builder\bin\Debug\netcoreapp2.0\Builder.dll
+E:\DesignPatterns\DesignPatterns\Builder\bin\Debug\netcoreapp2.0\Builder.pdb
+E:\DesignPatterns\DesignPatterns\Builder\obj\Debug\netcoreapp2.0\Builder.dll
+E:\DesignPatterns\DesignPatterns\Builder\obj\Debug\netcoreapp2.0\Builder.pdb

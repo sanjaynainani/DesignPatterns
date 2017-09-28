@@ -8,3 +8,13 @@ E:\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfoInputs.cache
 E:\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfo.cs
 E:\singleton\obj\Debug\netcoreapp2.0\singleton.dll
 E:\singleton\obj\Debug\netcoreapp2.0\singleton.pdb
+E:\DesignPatterns\DesignPatterns\singleton\obj\Debug\netcoreapp2.0\singleton.csproj.CoreCompileInputs.cache
+E:\DesignPatterns\DesignPatterns\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfoInputs.cache
+E:\DesignPatterns\DesignPatterns\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfo.cs
+E:\DesignPatterns\DesignPatterns\singleton\obj\Debug\netcoreapp2.0\singleton.dll
+E:\DesignPatterns\DesignPatterns\singleton\obj\Debug\netcoreapp2.0\singleton.pdb
+E:\DesignPatterns\DesignPatterns\singleton\bin\Debug\netcoreapp2.0\singleton.deps.json
+E:\DesignPatterns\DesignPatterns\singleton\bin\Debug\netcoreapp2.0\singleton.runtimeconfig.json
+E:\DesignPatterns\DesignPatterns\singleton\bin\Debug\netcoreapp2.0\singleton.runtimeconfig.dev.json
+E:\DesignPatterns\DesignPatterns\singleton\bin\Debug\netcoreapp2.0\singleton.dll
+E:\DesignPatterns\DesignPatterns\singleton\bin\Debug\netcoreapp2.0\singleton.pdb
