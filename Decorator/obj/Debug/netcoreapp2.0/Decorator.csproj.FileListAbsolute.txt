@@ -1,0 +1,10 @@
+E:\DesignPatterns\DesignPatterns\Decorator\obj\Debug\netcoreapp2.0\Decorator.csproj.CoreCompileInputs.cache
+E:\DesignPatterns\DesignPatterns\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfoInputs.cache
+E:\DesignPatterns\DesignPatterns\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfo.cs
+E:\DesignPatterns\DesignPatterns\Decorator\bin\Debug\netcoreapp2.0\Decorator.deps.json
+E:\DesignPatterns\DesignPatterns\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.json
+E:\DesignPatterns\DesignPatterns\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.dev.json
+E:\DesignPatterns\DesignPatterns\Decorator\bin\Debug\netcoreapp2.0\Decorator.dll
+E:\DesignPatterns\DesignPatterns\Decorator\bin\Debug\netcoreapp2.0\Decorator.pdb
+E:\DesignPatterns\DesignPatterns\Decorator\obj\Debug\netcoreapp2.0\Decorator.dll
+E:\DesignPatterns\DesignPatterns\Decorator\obj\Debug\netcoreapp2.0\Decorator.pdb
